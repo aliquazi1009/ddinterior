@@ -996,7 +996,7 @@
 .testi .container .row .items {
   margin: 25px;
   padding: 25px;
-  border: 2px dashed var(--theme-color);
+/*   border: 2px dashed var(--theme-color); */
   /* box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 40px; */
   cursor: grab;
 }
